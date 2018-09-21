@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPA_R01683569_Calculator</string>
+    <string name="gpa1">Input your first grade here:</string>
+    <string name="gpa2">Input your second grade here:</string>
+    <string name="gpa3">Input your third grade here:</string>
+    <string name="gpa4">Input your fourth grade here:</string>
+    <string name="gpa5">Input your fifth grade here:</string>
+    <string name="finalGpa">Input your fifth grade here:</string>
+</resources>
